@@ -1,0 +1,8 @@
+https://github.com/EddyVerbruggen/nativescript-plugin-firebase/blob/master/docs/DATABASE.md - database doc
+https://firebase.google.com/docs/firestore/query-data/get-data- firestore doc
+https://github.com/EddyVerbruggen/nativescript-plugin-firebase - nativescript-plugin-firebase doc
+https://www.npmjs.com/package/nativescript-plugin-firebase -  nativescript-plugin-firebase doc npm
+
+components
+COUNTER - firestore
+HelloWorld - database

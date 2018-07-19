@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "595632121438",
+    "firebase_url": "https://vuef-78044.firebaseio.com",
+    "project_id": "vuef-78044",
+    "storage_bucket": "vuef-78044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595632121438:android:459163bd31908909",
+        "android_client_info": {
+          "package_name": "org.nativescript.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595632121438-08n3fvs8p52pemq1633lf2773eapgo38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYUVocdqoyextkSoM17FXbsMjq7tSIGTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
